@@ -13,8 +13,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YahyaEajass05&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YahyaEajass05&icon=4&color=3)](https://visitcount.itsvg.in)
